@@ -4,6 +4,7 @@
 
 body {
   margin: 0;
+  font-family: 'Times New Roman', Times, serif;
 }
 nav{
   height: 70px;
@@ -13,4 +14,23 @@ nav{
 }
 .nav--logo{
   max-width: 100px;
+}
+.main--photo{
+max-width: 400px;
+align-self: center;
+}
+section{
+  padding: 20px;
+}
+.main{
+  display: flex;
+  flex-direction: column;
+}
+
+.main--header{
+  margin-bottom: 16px;
+}
+
+.main--text{
+  margin-top: 0;
 }

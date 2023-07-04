@@ -10,6 +10,13 @@ function App() {
    <div>
     <Navbar />
     <Main />
+    <Card 
+    img="src/image 12.png"
+    rating="5.0"
+    rewiewCount={6}
+    Country="Kosova"
+    title="Life Lessons with Katie Zaferes"
+    price={136}/>
    </div>
   )
 }

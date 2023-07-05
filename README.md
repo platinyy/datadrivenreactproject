@@ -1,2 +1,2 @@
 # datadrivenreactproject
-![alt text](/Users/platinsyla/scrimba/datadrivenreactproject/public/images/reactproject.png)
+![alt text](public/images/reactproject.png)

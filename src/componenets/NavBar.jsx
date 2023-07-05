@@ -3,7 +3,7 @@ function Navbar (){
     return (
         <nav>
             
-            <img src="src/airbnb.png" className="nav--logo" />
+            <img src="public/images/airbnb.png" className="nav--logo" />
         </nav>
     )
 }
